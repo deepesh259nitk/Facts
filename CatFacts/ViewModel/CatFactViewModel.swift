@@ -12,7 +12,6 @@ protocol CatFactViewModelOutput: AnyObject {
     func updateView(with error: Error)
 }
 
-// Question : Doesn't the view model needs to know about the model ?
 class CatFactViewModel {
     
     weak var delegate: CatFactViewModelOutput?
