@@ -4,6 +4,8 @@ CatFacts is an iOS application designed to showcase a captivating compilation of
 
 For improved accessibility, the app incorporates features facilitating the seamless reading of cat facts, including badges highlighting verified and recently added information.
 
+Note : This project just demontrates how UIKit will work. This can be done using Swift UI with much lesser code however for SDKs this is more ideal set up as of today. This may change in future with Swift UI becoming more popular and adopted.  
+
 ## Tech Stack 
 
 - **Xcode 15.1**
