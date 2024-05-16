@@ -32,6 +32,13 @@ Although Swift UI + Combine was an alternative, the project opts for Swift + UIK
 - Supports localization, with Spanish included as an example.
 - Offers both Dark and Light modes.
 
+## UI 
+
+![Simulator Screenshot - iPhone 15 - 2024-05-16 at 18 23 56](https://github.com/deepesh259nitk/Facts/assets/7008769/cab45185-1d2b-4858-b23b-98b5df37a6a6)
+![Simulator Screenshot - iPhone 15 - 2024-05-16 at 18 23 59](https://github.com/deepesh259nitk/Facts/assets/7008769/638e5508-f7eb-4d88-9054-aec97ea95018)
+![Simulator Screenshot - iPhone 15 - 2024-05-16 at 18 24 18](https://github.com/deepesh259nitk/Facts/assets/7008769/c350a9d5-c5fc-4f03-8ae9-e32ad96fb0c1)
+
+
 ## To be considered/explored if more time is available
 
 - UITests for table view.
